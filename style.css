@@ -1,0 +1,59 @@
+body {
+    /* background-color: bisque; */
+    margin: 0;
+}
+.header {
+    width: auto;
+    height: 100px;
+    background-color: chocolate;
+}
+.block {
+    width: 250px;
+    height: 250px;
+    border: 2px solid;
+    background-color: beige;
+    margin-top: 100px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+.content-one {
+    width: auto;
+    height: auto;
+    background-color: rgb(160, 202, 221);
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.A {
+    background-color: bisque;
+    /* margin-left: 900px; */
+    /* margin-right: 900px; */
+    /* margin-top: 900px; */
+    /* margin-bottom: 900px; */
+    /* margin: 70px 50px 100px 100px; */
+    }
+.B {
+    background-color: aqua;
+}
+.C {
+    background-color: blue;
+}
+.D {
+    background-color: blueviolet;
+}
+.E {
+    background-color: rgb(71, 103, 104);
+}
+.F {
+    background-color: rgb(133, 51, 82);
+}
+/* .card {}
+.content-one div {
+    width: 250px;
+    height: 250px;
+    border: 2px solid;
+    background-color: beige;
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+.content-one div {} */
